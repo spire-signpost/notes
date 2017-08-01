@@ -19,9 +19,13 @@ Then check version number,
 git --version // e.g. current version 2.13.1 as of 07/17
 ```
 
-Useful tutorial,
+Useful Git tutorial,
 
   * https://www.atlassian.com/git/tutorials
+
+and more detailed book,
+
+  * https://git-scm.com/book/en/v2
 
 #### Basic setup
 Initialise local directory as Git repository, and check for hidden `.git` repository
