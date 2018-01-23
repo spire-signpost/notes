@@ -161,8 +161,6 @@ We can then test this initial setup using the following command,
 node ./server/server.js
 ```
 
-**END of v0.1**
-
 #### v0.2 - refactor code for Mongoose
 Add a new directory for DB config files, `/server/dbms` including a config file for Mongoose `mongoose-config.js`.
 
