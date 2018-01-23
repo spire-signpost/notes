@@ -7,3 +7,4 @@ A collection of general notes for Node development.
   * CLI
   * express basic
   * data stores
+  * testing
