@@ -6,3 +6,4 @@ A collection of general notes for Node development.
   * getting started
   * CLI
   * express basic
+  * data stores
