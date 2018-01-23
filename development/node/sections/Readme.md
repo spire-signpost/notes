@@ -10,3 +10,4 @@ A collection of general notes for Node development.
   * testing
   * API Todos
   * API Todos with users
+  * basic project management
