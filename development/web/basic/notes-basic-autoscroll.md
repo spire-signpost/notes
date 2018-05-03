@@ -4,7 +4,8 @@ A basic example of using autoscroll with JavaScript, and rendering with HTML.
 
 #### Contents
 * Intro
-*
+* Container
+* Scroll Options
 
 #### intro
 An autoscroll container for vertical content is particularly useful for rendering with HTML. It allows the UI to focus on pertinent content without blocking the view for the user.
